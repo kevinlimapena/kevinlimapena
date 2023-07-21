@@ -20,7 +20,8 @@ Atualmente estou focado no aprofundamento dos meus conhecimentos em Flutter para
 
 ## 📈 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kevinlimapena&show_icons=true&count_private=true&hide=prs&theme=radical)
-
+## 📈 Estatísticas do GitHub
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlimapena&layout=compact&theme=radical)
 
 ## 🎓 Educação
 - Ensino superior incompleto em Engenharia eletrica na Universidade Federal do Amazonas (UFAM)
