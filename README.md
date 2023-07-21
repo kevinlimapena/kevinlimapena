@@ -29,4 +29,6 @@ Atualmente estou focado no aprofundamento dos meus conhecimentos em Flutter para
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo! Estou sempre aberto a colaborações e novas oportunidades. 
 
----
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=kevinlimapena&&style=flat-square" alt="Profile views count"/>
+</div>
