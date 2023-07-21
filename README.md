@@ -19,10 +19,23 @@ Atualmente estou focado no aprofundamento dos meus conhecimentos em Flutter para
 - Universidade: Estudo na Universidade Federal do Amazonas (UFAM)
 
 ## 📈 Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kevinlimapena&show_icons=true&count_private=true&hide=prs&theme=radical)
-## 📈 Estatísticas do GitHub
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlimapena&layout=compact&theme=radical)
 
+
+![Linguagens mais usadas]()
+
+<!-- STATS:START -->
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=kevinlimapena&show_icons=true&count_private=true&hide=prs&theme=nord&hide_border=false" alt="My stats" />
+</div>
+<div align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinlimapena&theme=nord&hide_border=false" alt="My contributions" />
+</div>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlimapena&layout=compact&theme=nord&hide_border=false" alt="My contributions" />
+</div>
+![kevinlimapena's Streak]()
+<!-- STATS:END -->
 ## 🎓 Educação
 - Ensino superior incompleto em Engenharia eletrica na Universidade Federal do Amazonas (UFAM)
 
