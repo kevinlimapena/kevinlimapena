@@ -17,13 +17,12 @@ Atualmente estou focado no aprofundamento dos meus conhecimentos em Flutter para
 - E-mail: kevinlimapena@gmail.com
 - LinkedIn: [Kevin Lima Pena](https://www.linkedin.com/in/kevin-lima-pena/)
 - Universidade: Estudo na Universidade Federal do Amazonas (UFAM)
+## 🎓 Educação
+- Ensino superior incompleto em Engenharia eletrica na Universidade Federal do Amazonas (UFAM)
 
-## 📈 Estatísticas do GitHub
 
+Sinta-se à vontade para explorar meus projetos e entrar em contato comigo! Estou sempre aberto a colaborações e novas oportunidades. 
 
-![Linguagens mais usadas]()
-
-<!-- STATS:START -->
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=kevinlimapena&show_icons=true&count_private=true&hide=prs&theme=nord&hide_border=false" alt="My stats" />
@@ -34,13 +33,8 @@ Atualmente estou focado no aprofundamento dos meus conhecimentos em Flutter para
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlimapena&layout=compact&theme=nord&hide_border=false" alt="My contributions" />
 </div>
-![kevinlimapena's Streak]()
-<!-- STATS:END -->
-## 🎓 Educação
-- Ensino superior incompleto em Engenharia eletrica na Universidade Federal do Amazonas (UFAM)
 
 
-Sinta-se à vontade para explorar meus projetos e entrar em contato comigo! Estou sempre aberto a colaborações e novas oportunidades. 
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=kevinlimapena&&style=flat-square" alt="Profile views count"/>
