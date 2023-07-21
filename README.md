@@ -1,16 +1,31 @@
-### Hi there 👋
+# Olá, eu sou Kevin Lima Pena! 👋
 
-<!--
-**kevinlimapena/kevinlimapena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou um desenvolvedor de Front-end apaixonado por tecnologia, atualmente estudando Flutter e Advpl. Estou sempre em busca de novos desafios e aprendizados para aprimorar minhas habilidades e conhecimentos na área de desenvolvimento de software.
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas
+- **Front-end:** HTML, CSS, JavaScript, React.js, Angular
+- **Mobile:** Flutter
+- **ERP:** Advpl
+- **Banco de Dados:** SQL, MongoDB
+- **Controle de Versão:** Git
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Atualmente estou aprendendo
+Atualmente estou focado no aprofundamento dos meus conhecimentos em Flutter para o desenvolvimento de aplicativos móveis e também estudando a linguagem Advpl para trabalhar com sistemas de ERP.
+
+## 📫 Contato
+- E-mail: kevinlimapena@gmail.com
+- LinkedIn: [Kevin Lima Pena](https://www.linkedin.com/in/kevin-lima-pena/)
+- Universidade: Estudo na Universidade Federal do Amazonas (UFAM)
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=kevinlimapena&show_icons=true&count_private=true&hide=prs&theme=radical)
+
+
+## 🎓 Educação
+- Ensino superior incompleto em Engenharia eletrica na Universidade Federal do Amazonas (UFAM)
+
+
+Sinta-se à vontade para explorar meus projetos e entrar em contato comigo! Estou sempre aberto a colaborações e novas oportunidades. 
+
+---
