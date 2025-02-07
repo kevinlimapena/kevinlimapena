@@ -24,16 +24,8 @@ Atualmente estou focado no aprofundamento dos meus conhecimentos em Flutter para
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo! Estou sempre aberto a colaborações e novas oportunidades. 
 
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=kevinlimapena&show_icons=true&count_private=true&hide=prs&theme=nord&hide_border=false" alt="My stats" />
-</div>
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevinlimapena&theme=nord&hide_border=false" alt="My contributions" />
-</div>
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlimapena&layout=compact&theme=nord&hide_border=false" alt="My contributions" />
-</div>
-
+ <!--<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kevinlimapena&show_icons=true&count_private=true&hide=prs&theme=nord&hide_border=false" alt="My stats" /> </div> -->
+  <div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevinlimapena&layout=compact&theme=nord&hide_border=false" alt="My contributions" /> </div>   
 
 
 <div align="center">
