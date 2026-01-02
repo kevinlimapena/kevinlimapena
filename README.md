@@ -23,7 +23,7 @@ Atualmente estou focado no aprofundamento dos meus conhecimentos em Flutter para
 
 Sinta-se à vontade para explorar meus projetos e entrar em contato comigo! Estou sempre aberto a colaborações e novas oportunidades. 
 
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kevinlimapena&theme=dark&locale=pt_BR&date_format=%5BY.%5Dn.j&mode=weekly)](https://git.io/streak-stats)
  
 
 <div align="center">
