@@ -26,7 +26,7 @@ Sinta-se à vontade para explorar meus projetos e entrar em contato comigo! Esto
 
  <!--<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kevinlimapena&show_icons=true&count_private=true&hide=prs&theme=nord&hide_border=false" alt="My stats" /> </div> -->
   <div align="center"> 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kevinlimapena&theme=dark&locale=pt_BR&date_format=%5BY.%5Dn.j&mode=weekly" alt="GitHub Streak" /></a>
   </div>   
 
 
